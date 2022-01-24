@@ -3,5 +3,5 @@ This repo is a combination of Flask and folium to visualize time series data on 
 
 To run the code: <br>
 
-`pip install -r requirements.txt`
+`pip install -r requirements.txt` <br>
 `python folium_flask.py` 
